@@ -211,24 +211,7 @@
             android:layout_margin="2dp"
             tools:ignore="UsingOnClickInXml" />
 
-        <Button
-            android:id="@+id/button_delete"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:layout_margin="2dp"
-            android:onClick="getNumber"
-            android:text="@string/delete"
-            tools:ignore="UsingOnClickInXml" />
-        <Button
-            android:id="@+id/button_plus"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:layout_margin="2dp"
-            android:onClick="getNumber"
-            android:text="@string/plus"
-            tools:ignore="UsingOnClickInXml" />
+
 
 
 
