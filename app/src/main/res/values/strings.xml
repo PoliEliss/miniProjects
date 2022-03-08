@@ -22,4 +22,6 @@
     <string name="delete">delete</string>
     <string name="plus">+</string>
     <string name="button_equal">=</string>
+    <string name="dot">.</string>
+    <string name="eqval">=</string>
 </resources>
